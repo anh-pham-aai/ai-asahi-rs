@@ -1,0 +1,9 @@
+.idea
+.venv
+.env
+__pycache__
+uploads/
+myenv/
+venv/
+*.pyc
+.venv-rag/
